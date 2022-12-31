@@ -1,0 +1,6 @@
+git branching
+git merge
+git diff
+git log
+git pull
+git push
